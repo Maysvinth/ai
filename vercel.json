@@ -1,1 +1,1 @@
-{"buildCommand":"npm run build","outputDirectory":"dist","devCommand":"npm run dev","env":[],"regions":["iad1"]}
+{ "buildCommand": "npm run build", "outputDirectory": "dist", "devCommand": "npm run dev", "env": {} }
